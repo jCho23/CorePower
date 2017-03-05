@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{53F2BFB1-4938-43D5-B4F5-3CD787970EC8}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CorePower/Tests.cs">
+    <Files>
+      <File FileName="CorePower/AppInitializer.cs" Line="30" Column="60" />
+      <File FileName="CorePower/Tests.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CorePower PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
